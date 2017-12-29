@@ -126,8 +126,8 @@ void image_op_example()
 
 int main(int argc, char **argv)
 {
-	//mat_init_example();
-	//mat_create_example();
+	mat_init_example();
+	mat_create_example();
 	image_op_example();
 
 	waitKey(0);

@@ -59,7 +59,7 @@ int main(int argc, char* argv[])
 	//! [dividewith]
 
 	// 每一种方式测试次数
-	const int times = 1;
+	const int times = 10;
 	double t;
 
 	// getTickCount返回从操作系统启动到当前所经的计时周期数

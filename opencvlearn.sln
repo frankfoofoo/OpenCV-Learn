@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddingImages", "AddingImage
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{7159D4CA-AC4D-4F4B-8CD7-6A576DC42CC3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "discrete_fourier_transform", "discrete_fourier_transform\discrete_fourier_transform.vcxproj", "{5092E97E-74B2-4206-B4C3-9994A26E6093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{7159D4CA-AC4D-4F4B-8CD7-6A576DC42CC3}.Release|x64.Build.0 = Release|x64
 		{7159D4CA-AC4D-4F4B-8CD7-6A576DC42CC3}.Release|x86.ActiveCfg = Release|Win32
 		{7159D4CA-AC4D-4F4B-8CD7-6A576DC42CC3}.Release|x86.Build.0 = Release|Win32
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Debug|x64.ActiveCfg = Debug|x64
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Debug|x64.Build.0 = Debug|x64
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Debug|x86.ActiveCfg = Debug|Win32
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Debug|x86.Build.0 = Debug|Win32
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Release|x64.ActiveCfg = Release|x64
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Release|x64.Build.0 = Release|x64
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Release|x86.ActiveCfg = Release|Win32
+		{5092E97E-74B2-4206-B4C3-9994A26E6093}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
